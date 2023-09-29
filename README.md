@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @miltonnnn
 - 👀 I’m interested in Minecraft Development
-- 🌱 I’m currently learning Java, Kotlin
+- 🌱 I’m currently learning Java, Kotlin & Js
 - 📫 How to reach me: miltonnn1@gmail.com
